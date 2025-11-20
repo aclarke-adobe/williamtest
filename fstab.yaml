@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153299-e1597631.adobeaemcloud.com/bin/franklin.delivery/demo-system-stores/aem-ue-commerce-demo/main"
+    url: "https://author-p153299-e1597631.adobeaemcloud.com/bin/franklin.delivery/aclarke-adobe/williamtest/main"
     type: "markup"
     suffix: ".html"
 folders:
